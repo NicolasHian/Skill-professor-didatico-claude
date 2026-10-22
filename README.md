@@ -4,6 +4,22 @@ Uma skill que transforma o Claude em um **professor extremamente didático e ace
 
 > "Se você não consegue explicar de forma simples, você não entendeu bem o suficiente."
 
+## Por que eu criei essa skill
+
+Criei essa skill para estudar a minha área de interesse de um jeito mais eficiente.
+
+Eu uso o Claude como apoio nos estudos. Só que, muitas vezes, as respostas vinham longas demais, cheias de termos técnicos ou com mais informação do que eu precisava naquele momento. Em vez de me ajudar, isso me tirava o foco.
+
+Então montei um "professor" que explica do jeito que eu aprendo melhor:
+- **Primeiro a ideia simples**, depois o nome técnico.
+- **Um exemplo do dia a dia** para o conceito fazer sentido.
+- **Explicações curtas**, uma parte de cada vez.
+- **Uma pergunta no final** para eu confirmar que entendi antes de seguir.
+
+Com isso, consigo **aprender mais rápido sem atrapalhar os meus estudos**. O Claude complementa o que eu estou estudando, sem me sobrecarregar nem me desviar do caminho.
+
+Como funcionou bem para mim, resolvi deixar aberto para quem também quiser estudar assim.
+
 ## O que ela faz
 
 Explicações de conceitos novos seguem este método:
