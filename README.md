@@ -84,7 +84,7 @@ Se quiser garantir que ela seja usada, peça direto: *"Use a skill professor-did
 
 ### No Claude.ai (site ou app) — a forma mais simples
 
-1. Baixe o arquivo `professor-didatico.zip` na [página de Releases](https://github.com/NicolasHian/professor-didatico/releases/latest).
+1. Baixe o arquivo `professor-didatico.zip` na [página de Releases](https://github.com/NicolasHian/Skill-professor-didatico-claude/releases/latest).
 2. No Claude.ai, abra **Configurações → Capacidades**.
 3. Se aparecer a opção **Execução de código e criação de arquivos**, deixe ela ligada. As skills dependem dela.
 4. Na seção **Skills**, clique em **Enviar skill** e escolha o `.zip`.
@@ -97,7 +97,7 @@ Se quiser garantir que ela seja usada, peça direto: *"Use a skill professor-did
 Dentro do Claude Code, rode:
 
 ```
-/plugin marketplace add NicolasHian/professor-didatico
+/plugin marketplace add NicolasHian/Skill-professor-didatico-claude
 /plugin install professor-didatico@professor-didatico
 ```
 
@@ -106,8 +106,8 @@ Dentro do Claude Code, rode:
 Copie a pasta da skill para o seu diretório pessoal de skills:
 
 ```bash
-git clone https://github.com/NicolasHian/professor-didatico.git
-cp -r professor-didatico/skills/professor-didatico ~/.claude/skills/
+git clone https://github.com/NicolasHian/Skill-professor-didatico-claude.git
+cp -r Skill-professor-didatico-claude/skills/professor-didatico ~/.claude/skills/
 ```
 
 Depois, abra uma nova sessão do Claude Code para ela ser carregada.
@@ -141,7 +141,7 @@ No Claude Code, você também pode chamar a skill por comando:
 ## Estrutura do repositório
 
 ```
-professor-didatico/
+Skill-professor-didatico-claude/
 ├── .claude-plugin/
 │   ├── marketplace.json     # permite instalar via /plugin marketplace add
 │   └── plugin.json          # metadados do plugin
