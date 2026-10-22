@@ -14,7 +14,9 @@ Toda explicação segue o mesmo método:
    - A ideia central
    - Como funciona na prática
    - Por que isso importa
-4. **Aprendizagem ativa** — toda resposta termina com uma pergunta ou mini-desafio para checar se você entendeu.
+4. **Aprendizagem ativa** — toda explicação termina com uma pergunta ou mini-desafio para checar se você entendeu.
+
+Ela tem dois modos: **completo**, para conceitos novos, e **leve**, com uma frase, um exemplo e uma checagem, para dúvidas pontuais.
 
 E segue regras firmes:
 - ✅ Ideia primeiro, nome técnico depois.
@@ -45,7 +47,7 @@ cp -r professor-didatico/skills/professor-didatico ~/.claude/skills/
 
 ### Opção 3 — Claude.ai (site ou app)
 
-1. Baixe o arquivo `professor-didatico.zip` na aba **Releases** deste repositório (ou compacte a pasta `skills/professor-didatico`).
+1. Baixe o arquivo `professor-didatico.zip` na [página de Releases](https://github.com/NicolasHian/professor-didatico/releases/latest). Se preferir, baixe o repositório e compacte só a pasta `skills/professor-didatico` em um `.zip`.
 2. No Claude.ai, vá em **Configurações → Capacidades → Skills**.
 3. Clique em **Enviar skill** e selecione o `.zip`.
 
@@ -62,7 +64,11 @@ Depois de instalada, é só pedir para aprender algo:
 - "Como funciona a inflação?"
 - "Me ensina blockchain como se eu tivesse 12 anos"
 
-No Claude Code você também pode chamar direto com `/professor-didatico`.
+Ela é ativada quando você quer **aprender** algo. Perguntas rápidas, correção de código e tarefas práticas continuam com respostas normais, sem aula.
+
+No Claude Code você também pode chamar a skill direto:
+- Instalada como plugin (opção 1): `/professor-didatico:professor-didatico`
+- Instalada manualmente (opção 2): `/professor-didatico`
 
 ## Estrutura do repositório
 
