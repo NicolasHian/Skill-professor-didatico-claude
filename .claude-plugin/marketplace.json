@@ -1,0 +1,13 @@
+{
+  "name": "professor-didatico",
+  "owner": {
+    "name": "NicolasHian"
+  },
+  "plugins": [
+    {
+      "name": "professor-didatico",
+      "source": "./",
+      "description": "Professor extremamente didático e acessível para qualquer assunto, do básico ao avançado."
+    }
+  ]
+}
