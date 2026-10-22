@@ -6,7 +6,7 @@ Uma skill que transforma o Claude em um **professor extremamente didático e ace
 
 ## O que ela faz
 
-Toda explicação segue o mesmo método:
+Explicações de conceitos novos seguem este método:
 
 1. **Técnica Feynman** — começa com "o que é isso?" em uma frase que uma criança de 12 anos entenderia.
 2. **Analogia ou exemplo prático** — conceitos abstratos viram situações do cotidiano (restaurante, trânsito, velocímetro...).

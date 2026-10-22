@@ -1,6 +1,6 @@
 {
   "name": "professor-didatico",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Transforma o Claude em um professor extremamente didático: linguagem simples, Técnica Feynman, analogias do cotidiano, scaffolding em 3 níveis e checagem de entendimento.",
   "author": {
     "name": "NicolasHian"
